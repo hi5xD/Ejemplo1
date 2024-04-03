@@ -1,0 +1,35 @@
+* {
+    margin: 0;
+    padding: 0;
+
+}
+
+#navbar { 
+    background-color: rgb(51, 153, 255);
+    width: 100vw;
+    height: 150px;
+    color: white;
+    
+
+}
+#navbar .titulo{
+    text-align: center;
+    font-size:xx-large;
+}
+.navlinks {
+    display: flex;
+    justify-content: space-around;
+    color: white;
+    font-size: x-large;
+}
+a {
+    color: white;
+    text-decoration: none;
+}
+.waza {
+    align-items: center;
+}
+#container {
+    display: flex; 
+    justify-content: center;
+}
